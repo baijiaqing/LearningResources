@@ -1,64 +1,39 @@
-## 约定
-
-1. 每一个类别分为入门、进阶、高级
-
-2. 每一本书要链接到豆瓣
-
-3. 每一本书要流出一部分的位置用来填写评语，邀请读过的人来写评语
-
-4. 类别占定以下几个
-
-  * C/C++
-  * Linux服务器端编程
-  * Java基础
-  * Java并发编程
-  * Java网络编程
-  * Linux基础
-  * Linux运维
-  * Linux内核
-  * Docker
-  
-> 类别占时这么定，没有读过的书不要写上去，大家一起来做这个书单。
 
 
+## 程序员基础(编译链接、内存、OS基本原理、基本工具的使用、计算机中的一些基本概念)
 
+* 《系统虚拟化：原理与实现》
+* 《程序员的自我修养——链接、装载与库》
+* 《深入理解计算机系统》
+
+## Linux系统编程
+
+* 《UNIX 系统编程手册 上》
+* 《UNIX 系统编程手册  下》
 
 ## C语言
 
 * 《The C Programing Language》
-* 《C 语言程序设计》
-* 《C Primer Plus》
 
 ## C++
-* 《The C++ Programming Language》
 * 《C++ primer》
-* 《 Think in C++》
 * 《Effective C++》
 * 《Effecitive STL》
 * 《C++ 编程规范》
-* 《C++ 模板完全指南》
-* 《C++ coding standards》
 * 《C++语言的设计与演化》
 * 《深度探索C++模型》
 * 《C++ Concurrency In Action 》
-* 《Advanced C++ Metaprogramming》
+
 ## Linux内核
-* 《UNIX 系统编程手册 上》
-* 《UNIX 系统编程手册  下》
-* 《程序员的自我修养——链接、装载与库》
-* 《多线程编程》
+
 * 《深入Linux内核架构》
 * 《深入理解Linux网络技术内幕》
-* 《深入理解并行编程》
-* 《系统虚拟化：原理与实现》
-* 《Linux系统编程》
 * 《深入理解Linux内核》
 * 《Linux设备驱动程序》
 * 《Linux内核设计与实现》
-* 《深入理解计算机系统》
-* 《APUE》
-* 《UNP》
-## java 
+
+
+## java基础
 * 《java核心技术卷1》
 * 《java核心技术卷2》
 * 《java编程思想》
@@ -69,45 +44,19 @@
 * 《大型网站系统与Java中间件实战》
 * 《Java 虚拟机规范》
 * 《PLumbr Handbook java Garbage Collection》
-* 《Head First设计模式》
-* 《大话设计模式》
-## 网络编程
+
+
+## Linux网络编程
 * 《Linux高性能服务器编程》
 * 《UNIX 网络编程卷1：套接字联网API》
 * 《UNIX 网络编程卷2： 进程间通信》
 * 《TCP/IP 详解》
-## 并发编程
+
+## JAVA并发编程
 * 《java 并发编程实战》
 * 《java高并发程序设计》
 * 《java多线程编程核心技术》
 * 《java并发编程的艺术》
-## 虚拟化
-* 《Introduction to Virtualization》
-* 《虚拟智慧：VMware vSphere》
-## 云计算
-* 《Cloud Application Architectures》
-* 《云计算深刻改变未来》
-* 《虚拟化与云计算》
-* 《云计算核心技术剖析》
-* 《云计算应用架构》
-* 《走进云计算》
-## Docker
-* 《cgroup and namespace》
-* 《cgroup-Linux的IO隔离》
-* 《cgroup-linux内存资源管理》
-* 《cgroup-从cpu资源隔离说起》
-* 《docker-and-kubernetes》
-* 《docker-and-containers-for-development-and-depoyment-scale12x》
-## 大数据
-* 《驾驭大数据》
-* 《Hadoop权威指南》
-* 《深入浅出Hadoop实战开发》
-* 《MapReduce 设计模式》
-* 《Hadoop MapReduce性能优化》
-* 《HBase 实战》
-* 《Hive编程指南》
-* 《HBase权威指南》
-* 《Spark大数据分析实战》
 
 
 
