@@ -1,4 +1,4 @@
-Java基础：
+# Java基础：
 
 《core Java》 
 
@@ -37,10 +37,7 @@ https://book.douban.com/subject/3360807/
 https://book.douban.com/subject/25867042/
 
 
-
-
-
-Linux网络：
+# Linux网络：
 
 《Unix网络编程卷1：套接字联网API》
 
