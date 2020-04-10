@@ -1,27 +1,26 @@
-# 代码管理仓库
+# 代码仓库
 ## 仓库的作用
-* a. 社区&网站代码协作平台
-* b. 文章&代码&项目开发协作平台
-## 如何参与增加和维护代码
-* 每位同学将自己的代码上传到GitHub平台，大家需积极提交Issues 和 Patch，亦接收外界的Issues 和 Patch。
-* 提交代码时要附带代码说明文档
-* 团队项目可以在GitHub上协作完成，先构建闭源仓库，待项目完善后再进行开源。
+* 在我们实验室学习Linux内核的过程中，写过许多实验代码。现在将这些代码整理在这里，并且会一直保持更新，欢迎所有的Linuxer一起来交流学习。
+## 如何上传自己的代码
+* 每位同学可以将自己的代码按类别上传到某个文件夹下，如写了一个关于fork的小实验，可以上传到“进程管理”文件夹下。
+* 如果一个实验涉及到多方面的内容，则需要上传至多个文件夹下。如关于网络驱动的小实验，需要上传到“设备驱动”和“网络”两个文件夹下各一份。
+* 提交代码时要附带代码说明文档，说明文档命名为README.md。
+* 管理员审核代码的正确性后通过“上传请求”，便完成上传。如果管理员拒绝请求，需向提交者写明原因。
+## 如何维护已上传的代码
+* 所有人都可以提交Issues 和 Patch。
+* 提交 Patch 后经管理员审查通过，便完成维护。如果管理员拒绝请求，需向提交者写明原因。
 ## 代码目录
-* lmp_ui
-https://github.com/linuxkerneltravel/lmp_ui
-* xyLinuxer
-https://github.com/linuxkerneltravel/xyLinuxer
-* LearningLinux
-https://github.com/linuxkerneltravel/LearningLinux
-* lmp
-https://github.com/linuxkerneltravel/lmp
-* practical_docs
-https://github.com/linuxkerneltravel/practical_docs
-* linux
-https://github.com/linuxkerneltravel/linux
-* LearningLinuxKernel
-https://github.com/linuxkerneltravel/LearningLinuxKernel
-* linuxmooc
-https://github.com/linuxkerneltravel/linuxmooc
-* perf-tools
-https://github.com/linuxkerneltravel/perf-tools
+* 进程管理
+https://
+* 内存管理
+https://
+* 文件系统
+https://
+* 设备驱动
+https://
+* 网络
+https://
+* 系统调用
+https://
+* 中断与异常
+https://
